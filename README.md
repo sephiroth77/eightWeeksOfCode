@@ -1,0 +1,2 @@
+# eightWeeksOfCode
+Coding examples
