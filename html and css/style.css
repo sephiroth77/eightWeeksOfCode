@@ -1,0 +1,9 @@
+body {
+  background-color: #d4e1f4;
+}
+h1, h2, h3 {
+  color: blue;
+}
+p {
+  font: 15px arial, sans-serif;
+}
